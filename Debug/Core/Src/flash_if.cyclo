@@ -1,0 +1,5 @@
+../Core/Src/flash_if.c:64:6:FLASH_If_Init	1
+../Core/Src/flash_if.c:81:10:FLASH_If_Erase	5
+../Core/Src/flash_if.c:139:10:FLASH_If_Write	5
+../Core/Src/flash_if.c:186:10:FLASH_If_GetWriteProtectionStatus	14
+../Core/Src/flash_if.c:282:10:FLASH_If_WriteProtectionConfig	4

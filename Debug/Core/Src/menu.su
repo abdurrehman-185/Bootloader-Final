@@ -1,0 +1,2 @@
+../Core/Src/menu.c:66:6:SerialDownload	24	static
+../Core/Src/menu.c:114:6:Main_Menu	16	static,ignoring_inline_asm

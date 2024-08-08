@@ -1,0 +1,8 @@
+../Core/Src/ymodem.c:67:26:ReceivePacket	40	static
+../Core/Src/ymodem.c:150:13:PrepareIntialPacket	48	static
+../Core/Src/ymodem.c:191:13:PreparePacket	40	static
+../Core/Src/ymodem.c:231:10:UpdateCRC16	24	static
+../Core/Src/ymodem.c:257:10:Cal_CRC16	24	static
+../Core/Src/ymodem.c:277:9:CalcChecksum	24	static
+../Core/Src/ymodem.c:296:19:Ymodem_Receive	80	static
+../Core/Src/ymodem.c:445:19:Ymodem_Transmit	64	static
